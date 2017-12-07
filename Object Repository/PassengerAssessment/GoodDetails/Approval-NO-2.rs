@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Approval-NO-2</name>
+   <tag></tag>
+   <elementGuidId>110d04ae-9fa1-44e1-b516-0dd2ce59f619</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//input[@id='List_PAAssociateApprovalLs_1_txtApprovalNo']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//input[@id='List_PAAssociateApprovalLs_1_txtApprovalNo']</value>
+   </webElementProperties>
+</WebElementEntity>
