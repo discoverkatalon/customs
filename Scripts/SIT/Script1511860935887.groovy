@@ -22,7 +22,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser(GlobalVariable.G_SIT_URL)
 
-WebUI.setText(findTestObject('SIT/Page_Login Page/input_Login1UserName'), 'mq1')
+WebUI.setText(findTestObject('SIT/Page_Login Page/input_Login1UserName'), 'incsr')
 
 WebUI.setText(findTestObject('SIT/Page_Login Page/input_Login1Password'), GlobalVariable.password)
 
